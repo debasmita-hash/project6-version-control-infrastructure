@@ -12,3 +12,5 @@ Track Terraform updates using Git.
 This project demonstrates version control using Git and GitHub.
 It tracks infrastructure code changes through commits, branches
 and pull requests.
+## Project 6 Update
+Updated project documentation to demonstrate Git version control and pull request workflow.
